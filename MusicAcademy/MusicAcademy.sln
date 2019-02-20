@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CF46D2F-116A-4E3E-ADD7-59D1CC358A8B}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\musicschool\light\index.html = ..\..\..\..\Desktop\musicschool\light\index.html
+		..\musicschool\index.html = ..\musicschool\index.html
 	EndProjectSection
 EndProject
 Global
